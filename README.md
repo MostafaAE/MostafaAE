@@ -7,8 +7,8 @@ I'm Mostafa, I'm an undergraduate Computer Engineering Student.
 
 ### How to reach me:
 
-[<img align="left" alt="MostafaAE | LinkedIn" width="32px" src="https://user-images.githubusercontent.com/47731377/116507381-7334eb80-a8bf-11eb-8f67-13bb0cb44012.png" />][linkedin]
-[<img align="left" alt="MostafaAE | Instagram" width="32px" src="https://user-images.githubusercontent.com/47731377/116507383-7334eb80-a8bf-11eb-8411-6b7076ecd1ab.png" />][facebook]
+[<img align="left" alt="MostafaAE | Instagram" width="50px" src="https://user-images.githubusercontent.com/47731377/116507546-bbeca480-a8bf-11eb-9a4c-99fdc9e138f7.png" />][facebook]
+[<img align="left" alt="MostafaAE | LinkedIn" width="50px" src="https://user-images.githubusercontent.com/47731377/116507547-bbeca480-a8bf-11eb-9e7c-84fc88cde218.png" />][linkedin]
 
 <br />
 
