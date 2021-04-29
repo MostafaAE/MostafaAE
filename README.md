@@ -38,19 +38,13 @@ I'm Mostafa, I'm an undergraduate Computer Engineering Student.
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Mohamed-Fathy-Salah/stl-complete/pull/1) in [Mohamed-Fathy-Salah/stl-complete](https://github.com/Mohamed-Fathy-Salah/stl-complete)
-2. 🎉 Merged PR [#53](https://github.com/O-Gamal/TEA-Tiny-Encryption-Algorithm/pull/53) in [O-Gamal/TEA-Tiny-Encryption-Algorithm](https://github.com/O-Gamal/TEA-Tiny-Encryption-Algorithm)
-3. 💪 Opened PR [#53](https://github.com/O-Gamal/TEA-Tiny-Encryption-Algorithm/pull/53) in [O-Gamal/TEA-Tiny-Encryption-Algorithm](https://github.com/O-Gamal/TEA-Tiny-Encryption-Algorithm)
-4. 🎉 Merged PR [#52](https://github.com/O-Gamal/TEA-Tiny-Encryption-Algorithm/pull/52) in [O-Gamal/TEA-Tiny-Encryption-Algorithm](https://github.com/O-Gamal/TEA-Tiny-Encryption-Algorithm)
-5. 💪 Opened PR [#52](https://github.com/O-Gamal/TEA-Tiny-Encryption-Algorithm/pull/52) in [O-Gamal/TEA-Tiny-Encryption-Algorithm](https://github.com/O-Gamal/TEA-Tiny-Encryption-Algorithm)
 <!--END_SECTION:activity-->
 
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-mostafaae.vercel.app/api?username=MostafaAE&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" />
+<img align="left" alt="MostafaAE's GitHub Stats" src="https://github-readme-stats-mostafaae.vercel.app/api?username=MostafaAE&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" />
 
 </details>
 
