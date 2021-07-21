@@ -37,7 +37,7 @@ I'm Mostafa, I'm an undergraduate Computer Engineering Student.
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-<img align="left" alt="MostafaAE's GitHub Stats" src="https://github-readme-stats-mostafaae.vercel.app/api?username=MostafaAE&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" />
+<img align="left" alt="MostafaAE's GitHub Stats" src="https://github-readme-stats-mostafaae.vercel.app/api?username=MostafaAE&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&hide=stars" />
 
 </details>
 
