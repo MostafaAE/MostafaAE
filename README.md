@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Mostafa, I'm an undergraduate Computer Engineering Student.
 
-- 🌱 I’m currently learning everything 🤣.
+- 🌱 I’m currently learning everything 📚.
 - 🔭 I’m currently interested in mobile development using Flutter.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 
